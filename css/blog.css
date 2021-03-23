@@ -1,0 +1,9 @@
+.blog-main-div {
+  max-width: 980px;
+  min-height: 60px;
+}
+.blog-main-div h1 {
+  color: #000;
+  letter-spacing: 10px;
+  font-family: Proxima;
+}
